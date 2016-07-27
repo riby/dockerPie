@@ -3,7 +3,7 @@
 
 HOW_MANY=$1
 PREFIX=docker_pie
-IMAGE=docker_pie
+IMAGE=riby/docker_pie
 
 start=`date +%s`
 
